@@ -14,10 +14,8 @@ Material 2-3 The full cleaned dataset from Bibsonomy data after Step 4 (referenc
 
 Material 4 The reduced dataset after Step 5 (referenced in Table 1 in the paper) by selecting only tag groups annotated to publications, containing 15,647 multiword and single tag groups.
 
-Material 5 (svd-2000) The SVD-reduced matrix (15,647*2000) created from Material 4, using the binary resource-based representation method, where each row vector corresponds to a tag group and each entry in the row vector corresponds to whether tags in the tag group were used to annotate a resource (if yes then 1, no then 0). The dimension of the matrix is reduced from 301,669 (number of distinct resources after Step 5 in Table 1 in the paper) to 2000 using SVD, with around 80% of eigencomponents retained. All row vectors in Material 5 correspond to the tag groups of the same rows in Material 4.
+Material 5 The clustering results and candidate outliers with data from Material 4 represented using a binary resource-based matrix reduced to 2000 dimensions after Singular Value Decomposition.
 
-Material 6 The clustering results and candidate outliers with data from Material 4 represented using a binary resource-based matrix reduced to 2000 dimensions after Singular Value Decomposition.
+Material 6 The candidate outliers per clustering technique (Sheet 1 from Columns A to O), distinct candidate outliers from all clustering techniques (Sheet 1 Column P), human evaluation results (Sheet 1 Columns Q to W); and precision, recall, F-measure for each clustering technique (Sheets 2 to 4). 
 
-Material 7 The candidate outliers per clustering technique (Sheet 1 from Columns A to O), distinct candidate outliers from all clustering techniques (Sheet 1 Column P), human evaluation results (Sheet 1 Columns Q to W); and precision, recall, F-measure for each clustering technique (Sheets 2 to 4). 
-
-More notes are in the file "Supplementary Materials_Hierarchical Clustering-Based Outlier Detection from Academic Social Tagging.doc"
+More notes are in the file "Supplementary Materials_Hierarchical Clustering-Based Outlier Detection from Academic Social Tagging_.pdf"
