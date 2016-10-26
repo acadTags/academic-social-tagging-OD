@@ -6,7 +6,7 @@ from Academic Social Tagging Data", submitted to PAKDD 2017.
 Authors: Hang Dong, Wei Wang and Frans Coenen
 From Xi'an Jiaotong-Liverpool University and the University of Liverpool.
 
-This folder contains 7 materials/files: 
+This folder contains 6 materials/files: 
 
 Material 1 The semantic assumptions and treatment for all special characters with real tag examples in Bibsonomy (referenced in “Handling special characters semantically” in Sect. 3 in the paper).
 
