@@ -1,4 +1,4 @@
-# academic-social-tagging-data-cleaning-and-outlier-detection
+# Academic Social Tagging Data Cleaning and Outlier Detection
 
 Supplementary materials in the paper "Hierarchical Clustering-Based Outlier Detection
 from Academic Social Tagging Data", submitted to PAKDD 2017.
